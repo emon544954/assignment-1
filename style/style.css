@@ -7,7 +7,6 @@
 
 
 
-
 .text-1{
     font-size: medium;
     color: #424040;
@@ -119,6 +118,7 @@
     font-weight: 500;
     font-size: 16px;
     padding: 17px 34px;
+    color: white;
     
 }
 .btn-3{
@@ -128,10 +128,12 @@
     font-weight: 500;
     font-size: 16px;
     padding: 17px 34px;
+    color: white;
 
 }
 .btn-1{
     border-radius: 8px;
+    color: white;
     
     background-color:#5490F5;
     font-weight: 500;
@@ -154,11 +156,86 @@
     border-radius: 8px;
     margin-top: 20px;
     width: auto;
-    height: 30px;
+    /* height: 30px; */
 
 }
 .images{
     background-image: url(../B11A1--assignment-1/assets/quote-bg.png);
     background-repeat: no-repeat;
     background-position: left top;
+    
 }
+.color-5{
+    color: #0E0E0E;
+    font-size: 20px;
+    font-weight: 600;
+}
+.color-6{
+    color: #0E0E0E;
+    font-size: 16px;
+    font-weight: 500px;
+
+}
+.image-1{
+    display: flex;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 10px auto;
+    background-color: #FFFFFF;
+    margin-left: 207px;
+    margin-right: 207px;
+    
+   
+    
+}
+.image-2{
+    border-radius: 15px;
+}
+.image-3{
+    margin-right: 20px;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 14px;
+    
+}
+.image-4{
+    font-size: 32px;
+    font-weight: bold;
+}
+.date-time{
+    font-size: 16px;
+    font-weight: 400;
+}
+.btn-5{
+    color: white;
+}
+.r-p{
+    font-size: 16px;
+    font-weight: 400px;
+    color: #0E0E0E;
+}
+.image-7{
+    margin-top: 40px;
+    margin-right: 200px;
+    margin-left: 212px;
+}
+.image-10{
+    display: flex;
+    margin-top: 40px;
+    margin-right: 200px;
+    margin-left: 212px;
+}
+.image-11{
+ display: flex;
+ margin-top: 20px;
+ border: 2px solid white;
+ 
+
+}
+.center{
+    text-align: center;
+    margin-left: 257px;
+    margin-right: 250px;
+
+}
+
