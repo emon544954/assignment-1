@@ -4,13 +4,37 @@
     font-style: normal;
   }
   
-
-
+.main-navbar{
+    margin-top: 40px;
+    width: 1380px;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+.top-btn{
+    /* width: 280px; */
+    margin-top: 0px;
+   
+}
+.top-btn-clr{
+    border-radius: 8px;
+    
+    background-color: #f4fffc;
+    font-weight: 600;
+    font-size: 20;
+    padding: 17px 34px;
+    border: 1px solid green;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
 
 .text-1{
     font-size: medium;
     color: #424040;
 }
+
 .text-2{
     font-size: 56px;
     font-weight: bold;
@@ -28,7 +52,9 @@
     display: flex;
     background-color: #C6E4D6;
     border-radius: 24px;
-    margin:200px ;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: 40px;
     
     
 } 
@@ -82,8 +108,7 @@
 .main-piler-section{
     width: 1440px;
     max-width: auto;
-    /* margin: 97px 299px 97px 59px; */
-   width: 1400px;
+
    margin: auto;
    justify-content: center;
 }
@@ -161,6 +186,8 @@
     border-radius: 8px;
     margin-top: 20px;
     width: auto;
+    
+
     /* height: 30px; */
 
 }
@@ -168,6 +195,7 @@
     background-image: url(../B11A1--assignment-1/assets/quote-bg.png);
     background-repeat: no-repeat;
     background-position: left top;
+  
     
 }
 .color-5{
@@ -272,4 +300,28 @@
 .taka-btn-2{
     background-color: #C6E4D6;
 }
+.submit-btn{
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+    
+}
+.others-ammount{
+    text-align: center;
+    width: 1020px;
+    height: 50px;
+    background-color:white;
+    justify-content: center;
+    margin: auto;
+    border: 1px solid whitesmoke;
+    margin-top: 30px;
+   
+    
+    
 
+
+}
+.taka-11{
+  
+    /* padding-top: 15px; */
+}
