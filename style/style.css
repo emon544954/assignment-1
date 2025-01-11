@@ -1,0 +1,88 @@
+.fira-sans-regular {
+    font-family: "Fira Sans", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+
+
+
+.text-1{
+    font-size: medium;
+    color: #424040;
+}
+.text-2{
+    font-size: 56px;
+    font-weight: bold;
+}
+.btn{
+    border-radius: 8px;
+    
+    background-color: #006A50;
+    font-weight: 600;
+    font-size: 20;
+    padding: 17px 34px;
+    
+}
+.father{
+    display: flex;
+    background-color: #C6E4D6;
+    border-radius: 24px;
+    margin:200px ;
+    
+    
+} 
+
+.child{
+    margin: 97px 299px 97px 59px;
+
+}
+.img{
+   margin-top: 80px;
+}
+/* section2 */
+.pillars-font{
+    text-align: left;
+}
+.pillars-font{
+    font-weight: bold;
+    font-size: 40px;
+}
+.pillars-section{
+    display: flex;
+    gap: 24px;
+    padding: 30px;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 0px 6px 50px 0px rgb(148, 146, 146);
+}
+.innovation{
+    font-weight: bold;
+    font-size: 20px;
+    color: #0E0E0E;
+}
+.peragraph{
+    color: #0E0E0E;
+    font-weight: 500;
+    font-size: 20px;
+}
+.skills{
+    gap: 24px;
+    padding: 33px;
+    margin: 10px;
+    border: 2px solid #D5D6D8;
+    border-radius: 10px;
+    background-color: #F1F1F3;
+}
+.main-piler-section{
+    width: 1440px;
+    max-width: auto;
+    /* margin: 97px 299px 97px 59px; */
+   width: 1400px;
+   margin: auto;
+   justify-content: center;
+}
+.vision-heading{
+    
+}
