@@ -73,6 +73,7 @@
 .pillars-font{
     font-weight: bold;
     font-size: 40px;
+    margin-left: 20px;
 }
 .pillars-section{
     display: flex;
@@ -194,7 +195,7 @@
 .images{
     background-image: url(../B11A1--assignment-1/assets/quote-bg.png);
     background-repeat: no-repeat;
-    background-position: left top;
+    background-position: left  top;
   
     
 }
@@ -253,6 +254,8 @@
     margin-top: 40px;
     margin-right: 200px;
     margin-left: 250px;
+    background-color: #FFFFFF;
+    margin: 1px solid white;
 }
 .image-10{
     display: flex;
